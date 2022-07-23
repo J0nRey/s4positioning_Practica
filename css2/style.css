@@ -1,0 +1,17 @@
+.bg-T{background-color: #00A6DE;}
+.bg-F{background-color: #334C8C;}
+.bg-I{background-color: #F91F84;}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    border-radius: 2rem;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
